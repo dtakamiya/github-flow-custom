@@ -1,5 +1,5 @@
 # github-flow-custom
-github-flowをカスタマイズしたflowです。
+github-flowを今のプロジェクトに合わせてカスタマイズしたflowです。
 
 ## 前提条件
 - originは拠点１のリモートリポジトリ
